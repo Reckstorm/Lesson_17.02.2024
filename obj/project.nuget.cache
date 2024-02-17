@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ierNjmpRBRyDQrqAYJ2zjci1LsQl/iYy1yKq0RBE7E+C7QnjTY7mAzGWzXQ04u+2aWsFLio3MAFuKUVQK5r7A==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Lesson_17.02.2024\\Lesson_17.02.2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\3.7.302.12\\awssdk.core.3.7.302.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\awssdk.s3\\3.7.305.28\\awssdk.s3.3.7.305.28.nupkg.sha512"
+  ],
+  "logs": []
+}
